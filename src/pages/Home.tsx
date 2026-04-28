@@ -42,7 +42,7 @@ const Home = () => {
       <section className="relative space-y-10 overflow-hidden rounded-2xl bg-gradient-to-br from-primary via-secondary to-accent p-12 text-primary-foreground shadow-2xl">
         <div className="relative z-10 space-y-4 max-w-3xl">
           <h1 className="text-6xl font-semibold tracking-tight leading-none text-white drop-shadow-lg">
-            Добро пожаловать в StudySAT
+            Добро пожаловать в SATisfy
           </h1>
           <p className="text-xl text-white/90 leading-relaxed drop-shadow-md">
             Комплексная платформа для подготовки к SAT экзамену с расширенной базой вопросов, уроками и статистикой прогресса

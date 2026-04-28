@@ -426,7 +426,7 @@ export const questions: Question[] = [
     question: 'Исправьте: "The committee were divided in their opinion."', 
     options: ['Оставить как есть', 'The committee was divided', 'The committees were divided', 'The committee have divided'], 
     answer: 1, 
-    explanation: 'Коллективное существительное в американском английском обычно единственного числа.' 
+    explanation: 'Коллективное существительное в американском английском обычно единственно��о числа.' 
   },
   { 
     id: 212, 
@@ -652,7 +652,7 @@ export const questions: Question[] = [
     section: 'Reading', 
     difficulty: 'medium', 
     question: 'Автор пишет: "The data suggests, although not conclusively..." Это пример:', 
-    options: ['Уверенности', 'Осторожности', 'Скептицизма', 'Отрицания'], 
+    options: ['Уверенности', 'Осторожности', 'Ск��птицизма', 'Отрицания'], 
     answer: 1, 
     explanation: 'Фразы как "not conclusively" показывают осторожный подход автора.' 
   },
@@ -826,12 +826,12 @@ export const questions: Question[] = [
 
 // Функции для работы с localStorage
 export const STORAGE_KEYS = {
-  QUIZ: 'studysat_quiz_progress',
-  BOOKMARKS: 'studysat_bookmarks',
-  FLASHCARD_INDEX: 'studysat_flashcard_index',
-  SRS: 'studysat_srs',
-  PLANNER: 'studysat_planner',
-  SETTINGS: 'studysat_settings',
+  QUIZ: 'satisfy_quiz_progress',
+  BOOKMARKS: 'satisfy_bookmarks',
+  FLASHCARD_INDEX: 'satisfy_flashcard_index',
+  SRS: 'satisfy_srs',
+  PLANNER: 'satisfy_planner',
+  SETTINGS: 'satisfy_settings',
 };
 
 export interface QuizProgress {

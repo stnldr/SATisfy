@@ -45,7 +45,7 @@ const Layout = () => {
             onClick={() => navigate('/')}
             className="cursor-pointer text-xl font-semibold tracking-tight transition-all hover:opacity-70"
           >
-            StudySAT
+            SATisfy
           </div>
 
           <div className="relative hidden md:block">
@@ -113,7 +113,7 @@ const Layout = () => {
       {/* Footer */}
       <footer className="border-t border-border/50 py-12 mt-20">
         <div className="container mx-auto px-6 text-center text-sm text-muted-foreground">
-          <p className="font-medium">© 2025 StudySAT</p>
+          <p className="font-medium">© 2025 SATisfy</p>
         </div>
       </footer>
 
