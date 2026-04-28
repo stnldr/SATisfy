@@ -19,7 +19,7 @@ const LoginPage: React.FC = () => {
         <div className="w-full max-w-md">
           <div className="text-center mb-8">
             <h1 className="text-3xl font-bold tracking-tight mb-2">
-              Добро пожаловать в StudySAT
+              Добро пожаловать в SATisfy
             </h1>
             <p className="text-muted-foreground">
               Войдите в свой аккаунт для продолжения

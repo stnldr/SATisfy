@@ -38,7 +38,7 @@ const AdPlaceholder = ({
           {description}
         </div>
         <div className="mt-4 text-xs text-muted-foreground">
-          Контакты для размещения: ads@studysat.kz
+          Контакты для размещения: ads@satisfy.kz
         </div>
       </div>
     </Card>
